@@ -286,6 +286,14 @@ p.note { display: none; }
 <h2><span class="yellow">まいてゃさんアルバム MBG 2502 10kyoku 再掲です</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xVTSe-eXbFs?si=1YAnLelZqsU-zs0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+        <h2>「雪の中で輝くシンデレラ」by まいてゃ 再掲です</h2>
+<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
+
+
+    <audio controls loop>
+        <source src="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" type="audio/mpeg">
+        お使いのブラウザは audio タグをサポートしていません。
+    </audio>
     
 <!--
 <br><br>
